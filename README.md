@@ -20,7 +20,9 @@ QR Generator in Python
     python3 main.py
     ```
 5. Enter your url.
+   
     ![URL](img/first_input.png)
-6. Enter the name of the file.
+7. Enter the name of the file.
+   
     ![File Name](img/url.png)
-7. You can find the QR code image in the `results` folder.
+9. You can find the QR code image in the `results` folder.
